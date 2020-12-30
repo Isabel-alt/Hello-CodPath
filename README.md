@@ -5,15 +5,17 @@
 
 
 ### App Description
-`TODO://When the program opens the user sees a text saying Hello from Isabel, the user is then able to change 
-  the color of the Hello text by clicking on the button that says "Click to change text color". The user will also be able to 
-  change the background color by clicking the button that says "Click to change background color". In addition to that, the user is also able to change the original Hello from       Isabel text to whatever they desire and by default a click of the background will change all chages to their original state.
+When the program opens the user sees a text saying Hello from Isabel, the user is then able to change 
+the color of the Hello text by clicking on the button that says "Click to change text color". The user will also be able to 
+change the background color by clicking the button that says "Click to change background color". In addition to that, the user is also able to change the original Hello from       Isabel text to whatever they desire and by default a click of the background will change all chages to their original state.
   
   
 ### App Walk-though
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>  
+
+<img src="![AppResults](https://user-images.githubusercontent.com/60380073/103330286-a6e92d00-4a15-11eb-996a-90ed9f1b095d.gif)
+" width=200><br>  
 
 
 ### Required User Stories
