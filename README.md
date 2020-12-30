@@ -12,10 +12,8 @@ change the background color by clicking the button that says "Click to change ba
   
 ### App Walk-though
 
-![AppResults](https://user-images.githubusercontent.com/60380073/103330286-a6e92d00-4a15-11eb-996a-90ed9f1b095d.gif)
 
-<img src="![AppResults](https://user-images.githubusercontent.com/60380073/103330286-a6e92d00-4a15-11eb-996a-90ed9f1b095d.gif)
-" width=200><br>  
+![AppResults](https://user-images.githubusercontent.com/60380073/103330286-a6e92d00-4a15-11eb-996a-90ed9f1b095d.gif)
 
 
 ### Required User Stories
